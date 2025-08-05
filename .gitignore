@@ -7,3 +7,5 @@ pytorch_env/
 # Data*.csv
 data/
 *.csv
+seed.py
+generate_data.py
