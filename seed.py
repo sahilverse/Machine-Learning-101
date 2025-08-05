@@ -20,6 +20,6 @@ df = pd.DataFrame({
 })
 
 # Save to CSV
-df.to_csv('student_scores_1000.csv', index=False)
+df.to_csv('data/student_scores_1000.csv', index=False)
 
 print("CSV file 'student_scores_1000.csv' with 1000 student records created.")
