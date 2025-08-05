@@ -1,0 +1,65 @@
+asttokens==3.0.0
+brotlicffi @ file:///C:/b/abs_f4lixvzmxt/croot/brotlicffi_1736183286104/work
+certifi @ file:///C:/b/abs_67mh6i36ci/croot/certifi_1752653721535/work/certifi
+cffi @ file:///C:/b/abs_29_b57if3f/croot/cffi_1736184144340/work
+charset-normalizer @ file:///croot/charset-normalizer_1721748349566/work
+colorama==0.4.6
+comm==0.2.3
+contourpy==1.3.2
+cycler==0.12.1
+debugpy==1.8.15
+decorator==5.2.1
+exceptiongroup==1.3.0
+executing==2.2.0
+filelock @ file:///C:/b/abs_758187j281/croot/filelock_1744281404850/work
+fonttools==4.59.0
+gmpy2 @ file:///C:/b/abs_d8ki0o0h97/croot/gmpy2_1738085498525/work
+idna @ file:///C:/b/abs_aad84bnnw5/croot/idna_1714398896795/work
+ipykernel==6.30.0
+ipython==8.37.0
+jedi==0.19.2
+Jinja2 @ file:///C:/b/abs_920kup4e6u/croot/jinja2_1741711580669/work
+jupyter_client==8.6.3
+jupyter_core==5.8.1
+kiwisolver==1.4.8
+MarkupSafe @ file:///C:/b/abs_a0ma7ge0jc/croot/markupsafe_1738584052792/work
+matplotlib==3.10.5
+matplotlib-inline==0.1.7
+mkl-service==2.4.0
+mkl_fft @ file:///C:/Users/dev-admin/mkl/mkl_fft_1730823082242/work
+mkl_random @ file:///C:/Users/dev-admin/mkl/mkl_random_1730822522280/work
+mpmath @ file:///C:/b/abs_7833jrbiox/croot/mpmath_1690848321154/work
+nest-asyncio==1.6.0
+networkx @ file:///C:/b/abs_b054htfn9t/croot/networkx_1737043671910/work
+numpy @ file:///C:/b/abs_0123vcxhf8/croot/numpy_and_numpy_base_1725470331966/work/dist/numpy-2.0.1-cp310-cp310-win_amd64.whl#sha256=e824ec3b279f4c5207736c83ac2f2dc79b489e08501a4ea9e3fc178c45db289b
+packaging==25.0
+pandas==2.3.1
+parso==0.8.4
+pillow @ file:///C:/b/abs_b50vowcrzo/croot/pillow_1738010273782/work
+platformdirs==4.3.8
+prompt_toolkit==3.0.51
+psutil==7.0.0
+pure_eval==0.2.3
+pycparser @ file:///tmp/build/80754af9/pycparser_1636541352034/work
+Pygments==2.19.2
+pyparsing==3.2.3
+PySocks @ file:///C:/ci_310/pysocks_1642089375450/work
+python-dateutil==2.9.0.post0
+pytz==2025.2
+pywin32==311
+PyYAML @ file:///C:/b/abs_14xkfs39bx/croot/pyyaml_1728657968772/work
+pyzmq==27.0.1
+requests @ file:///C:/b/abs_0b3h9d_724/croot/requests_1750426345668/work
+six==1.17.0
+stack-data==0.6.3
+sympy @ file:///C:/b/abs_b4u17p23yg/croot/sympy_1738108511395/work
+torch==2.5.1
+torchaudio==2.5.1
+torchvision==0.20.1
+tornado==6.5.1
+traitlets==5.14.3
+typing_extensions==4.14.1
+tzdata==2025.2
+urllib3 @ file:///C:/b/abs_393g1ayee_/croot/urllib3_1750775481226/work
+wcwidth==0.2.13
+win-inet-pton @ file:///C:/ci_310/win_inet_pton_1642658466512/work

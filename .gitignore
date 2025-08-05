@@ -1,0 +1,9 @@
+.vscode/
+*.code-workspace
+pytorch_env/
+
+
+
+# Data*.csv
+data/
+*.csv
